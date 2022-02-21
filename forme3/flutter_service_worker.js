@@ -6,22 +6,22 @@ const RESOURCES = {
   "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "813d3754b287c2816cca9166de256c62",
+"assets/NOTICES": "086c98aec24763fbcb9aa73150efe823",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1bc9e93b79d4ada06d94fb6fa92df59e",
-"/": "1bc9e93b79d4ada06d94fb6fa92df59e",
-"main.dart.js": "a49777e8bae4d7abad757a0abc37a96b",
-"manifest.json": "5dbc6e6d6b49d785251d7bc5e70ece8e",
-"version.json": "cefe63c60016162cdb3ef5a373ed5b02"
+"index.html": "0232fd82eafc5c9ba5524b8f06456b62",
+"/": "0232fd82eafc5c9ba5524b8f06456b62",
+"main.dart.js": "0e528d98245eecb34d43743f910d2ca9",
+"manifest.json": "4a751f1f48979e741c98760074036e15",
+"version.json": "c36eb7f1db0bdf460f2a010a2cf344f6"
 };
 
 // The application shell files that are downloaded before a service worker can
