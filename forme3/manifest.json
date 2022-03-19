@@ -1,6 +1,6 @@
 {
-    "name": "forme_test",
-    "short_name": "forme_test",
+    "name": "forme_demo",
+    "short_name": "forme_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
